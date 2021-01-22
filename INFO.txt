@@ -1,0 +1,5 @@
+Requirements:
+
+
+Raspberry pi (3B in blynk app)
+ThingSpeak (cloud platform)
